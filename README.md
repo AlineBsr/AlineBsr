@@ -1,4 +1,4 @@
-### Welcome on my github ! 👋  
+### Welcome to my github ! 👋  
 
 #### 👀 WebDev Training in progress.... 
 
