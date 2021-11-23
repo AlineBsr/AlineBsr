@@ -1,12 +1,30 @@
 ### Welcome to my github ! 👋  
 
-#### 👀 *WebDev Training in progress....* 
-<a href ="https://github.com/anuraghazra/github-readme-stats"> 
-  <img  align="center" src ="https://github-readme-stats.vercel.app/api?username=AlineBsr&theme=onedark&count_private=true&hide=stars,issues&show_icons=true&disable_animations=1" width="475px" />
+#### 👀 *WebDev Training in progress....*
+<div align="center">
+  <br />
+    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/> 
+  	<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"        />
+  	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"          /> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"              />
+  <br />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"          />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"            />
+  	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"            />    
+  	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  />
+  <br />
+  <a  href ="https://github.com/AlineBsr/github-readme-stats" > 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBsr&hide_border=true&theme=onedark&layout=compact&repo=github-readme-stats" width="301px" />
+    <img src ="https://github-readme-stats.vercel.app/api?username=AlineBsr&theme=onedark&count_private=true&hide=stars,issues&show_icons=true&hide_border=true&disable_animations=1" width="475px" />
+  </a>
+</div>
+
+<a href ="https://github.com/AlineBsr/github-readme-stats"> 
+  <img  align="center" 
  </a>
-<a  href ="https://github.com/anuraghazra/github-readme-stats" > 
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBsr&theme=onedark&layout=compact&repo=github-readme-stats" width="301px" />
- </a> 
+
+ 
 
 <!--
 **AlineBsr/AlineBsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
