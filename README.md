@@ -19,13 +19,13 @@
   	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"            />    
   	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  />
   <br />
-  <a  href ="https://github.com/AlineBsr/github-readme-stats" > 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBsr&hide_border=true&theme=onedark&layout=compact&repo=github-readme-stats" width="301px" />
-    <img src ="https://github-readme-stats.vercel.app/api?username=AlineBsr&theme=onedark&count_private=true&hide=stars,issues&show_icons=true&hide_border=true&disable_animations=1" width="475px" />
-  </a>
+  <a href ="https://github.com/anuraghazra/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alinebsr&theme=onedark&count_private=false&hide=stars,issues&show_icons=true&disable_animations=1&include_all_commits=true" width="475px" />
+ </a>
+<a  href ="https://github.com/anuraghazra/github-readme-stats" > 
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinebsr&theme=onedark&layout=compact&repo=github-readme-stats" width="301px" />
+ </a> 
 </section>
-
- 
 
 <!--
 **AlineBsr/AlineBsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
