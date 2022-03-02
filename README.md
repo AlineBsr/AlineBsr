@@ -3,8 +3,7 @@
   
   <h1>Welcome to my github ! 👋  </h1>
   <p>👀 WebDev Training in progress ....</p>
-  <p>Linux adept</p>
-  
+  <i>Linux adept & dark theme lover</i><br/>
   <br />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
